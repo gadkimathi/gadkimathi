@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there 👋, I'm Gad Kimathi!
 
-<!--
-**gadkimathi/gadkimathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here's a bit about me and my tech stack.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+**Languages:**
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frameworks:**
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
+
+**Tools:**
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+
+**Databases:**
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+
+## 🌱 About Me
+- 💼 AI & Machine learning engineer | Open Source Contributor | Mechatronics engineer
+- 🌍 [Visit my portfolio](https://gadkimathi.github.io)
+
+## 📫 Get in Touch
+- [LinkedIn](https://linkedin.com/in/gadkimathi)
+- [Email Me](murithigad@gmail.com)
+
