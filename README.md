@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00AEEF&center=true&vCenter=true&width=600&lines=👋+Hey+there!+I'm+Gad+Kimathi;DevOps+Engineer;Cloud+%7C+CI%2FCD+%7C+Automation;Building+Scalable+and+Reliable+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00AEEF&center=true&vCenter=true&width=600&lines=👋+Hey+there!+I'm+Gad+Kimathi" alt="Typing SVG" />
 </p>
 
 ---
