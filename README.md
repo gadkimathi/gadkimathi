@@ -4,7 +4,7 @@
 
 ---
 
-#  DevOps Engineer | Cloud & Automation | Mechatronics Background
+#  DevOps Engineer | Cloud & Automation | Mechatronics Background | Technical Documents and AI Researcher
 
 I’m **Gad Kimathi**, a DevOps Engineer passionate about **automating workflows, building reliable systems, and deploying scalable applications on the cloud.**  
 My engineering background in **Mechatronics and Automation** gives me a unique foundation for combining **hardware reliability** with **software scalability**  the perfect mix for modern DevOps.
