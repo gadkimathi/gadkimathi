@@ -18,7 +18,7 @@
 
 ---
 
-## ⚡ I Build Systems That Work While You Sleep
+##  I Build Systems That Work While You Sleep
 
 I'm **Gad Kimathi**, an Automation Engineer with a background in **Mechatronics Engineering**.
 
@@ -27,24 +27,24 @@ I combine **AI, APIs, CRMs, code, and automation** to turn repetitive business p
 ```text
 Messy Process
      ↓
-⚙️ Automation
+ Automation
      ↓
-🤖 AI + APIs + CRMs + Workflows
+ AI + APIs + CRMs + Workflows
      ↓
-🚀 Scalable System
+ Scalable System
 ```
 
-## 🛠️ What I Do
+##  What I Do
 
-* 🤖 **AI & Workflow Automation**
-* 🔗 **API & Systems Integration**
-* 🚀 **SaaS & Internal Tool Development**
-* 📊 **Business Process & CRM Automation**
-* ⚙️ **CRM Architecture & Data Workflows**
+*  **AI & Workflow Automation**
+*  **API & Systems Integration**
+*  **SaaS & Internal Tool Development**
+*  **Business Process & CRM Automation**
+*  **CRM Architecture & Data Workflows**
 
-## ⚡ Tech Stack
+##  Tech Stack
 
-### 🤖 Automation & CRM
+###  Automation & CRM
 
 <p>
 <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white"/>
@@ -54,7 +54,7 @@ Messy Process
 <img src="https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white"/>
 </p>
 
-### 💻 Engineering & Data
+###  Engineering & Data
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -69,7 +69,7 @@ Messy Process
 
 ---
 
-## 🚀 Currently Building & Exploring
+##  Currently Building & Exploring
 
 > **AI Agents • Intelligent Automation • CRM Architecture • API Orchestration • AI-Powered SaaS**
 
