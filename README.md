@@ -1,61 +1,74 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00AEEF&center=true&vCenter=true&width=600&lines=👋+Hey+there!+I'm+Gad+Kimathi" alt="Typing SVG" />
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Gad+Kimathi+%F0%9F%91%8B;Automation+Engineer+%E2%9A%99%EF%B8%8F;AI+%C3%97+Automation+%C3%97+Engineering" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://www.linkedin.com/in/gad-murithi-a66b7b232/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:murithigad@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/gadkimathi">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## ⚡ I Build Systems That Work While You Sleep
+
+I'm **Gad Kimathi**, an Automation Engineer with a background in **Mechatronics Engineering**.
+
+I combine **AI, APIs, code, and automation** to turn repetitive business processes into intelligent systems.
+
+```text
+Messy Process
+     ↓
+⚙️ Automation
+     ↓
+🤖 AI + APIs + Workflows
+     ↓
+🚀 Scalable System
+```
+
+## 🛠️ What I Do
+
+* 🤖 **AI & Workflow Automation**
+* 🔗 **API & Systems Integration**
+* 🚀 **SaaS & Internal Tool Development**
+* 📊 **Business Process Automation**
+* ⚙️ **CRM & Data Workflows**
+
+## ⚡ Tech Stack
+
+<p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
 </p>
+
+**Automation:** APIs • Webhooks • AI Workflows • Make • Zapier • n8n
+
 ---
-#  Automation Engineer | SaaS Builder | CRM Architecture | Business Process Automation | Mechatronics Background
-I’m **Gad Kimathi**, an Automation Engineer and SaaS Builder passionate about **building SaaS applications from scratch, architecting CRM systems, and automating business workflows end-to-end.**  
-My engineering background in **Mechatronics and Automation** gives me a systems-thinking edge — I approach products and processes the same way: map it, build it, automate it, scale it.
+
+## 🚀 Currently Building & Exploring
+
+> **AI Agents • Intelligent Automation • API Orchestration • AI-Powered SaaS**
+
 ---
-### ⚙️ What I Do
--  **SaaS Product Development:** Building full-stack SaaS applications from the ground up — from architecture to deployment.  
--  **CRM Architecture & Implementation:** Designing and configuring **HubSpot**, **Zoho**, and **Odoo** to match business processes end-to-end.  
--  **Workflow Automation:** Building automated pipelines, triggers, and sequences to eliminate repetitive manual tasks.  
--  **Systems Integration:** Connecting CRMs, ERPs, custom apps, and third-party tools using **Zapier**, **Make (Integromat)**, and native APIs.  
--  **Sales & Marketing Ops:** Automating lead routing, scoring, nurture sequences, and pipeline management.  
--  **Custom Modules & Scripting:** Extending platform functionality with **Zoho Deluge**, **Odoo Studio/Python modules**, and **HubSpot custom workflows**.  
--  **Data Migration & Reporting:** Structuring clean data models and building dashboards for business visibility.
----
-###  Featured Projects
-|  Project |  Description |  Tech Stack |
-|-------------|----------------|----------------|
-|  **SaaS Application (from scratch)** | Designed and built a full-stack SaaS product — auth, billing, multi-tenant architecture, and deployment pipeline. | React/Node, PostgreSQL, AWS |
-|  **CRM Architecture Overhaul** | Redesigned a company's CRM data model and pipeline stages in HubSpot, cutting manual data entry significantly. | HubSpot, Zapier |
-|  **Odoo ERP-CRM Integration** | Built custom Odoo modules to sync inventory, sales, and customer data in real time across departments. | Odoo, Python, PostgreSQL |
-|  **Zoho Automation Suite** | Automated lead assignment, follow-up sequences, and approval workflows using Zoho CRM and Deluge scripting. | Zoho CRM, Zoho Flow, Deluge |
-|  **Multi-Platform Integration Hub** | Connected CRM, email marketing, custom apps, and support tools into one automated workflow using Make and native APIs. | Make, REST APIs, Webhooks |
----
-###  Currently Exploring
-- Advanced **Odoo module development** (Python/XML)  
-- **HubSpot Operations Hub** for advanced data sync and custom coded actions  
-- Building **AI-assisted workflows** into SaaS products and CRM automation  
----
-###  Tech Stack
-`React` `Node.js` `Python` `PostgreSQL` `AWS` `HubSpot`  
-`Zoho CRM` `Zoho Deluge` `Odoo` `Zapier` `Make (Integromat)`  
-`REST APIs` `Webhooks` `Git` `Bash`
----
-###  Highlights
-✅ Builds **SaaS applications from scratch** — architecture, backend, frontend, and deployment  
-✅ Strong foundation in **CRM data architecture & business process mapping**  
-✅ Hands-on experience implementing and customizing **HubSpot, Zoho, and Odoo**  
-✅ Skilled in **automating manual workflows** across sales, marketing, and operations  
-✅ Deep understanding of **systems integration** — connecting tools so data flows without friction  
----
-###  Let’s Connect
-<p align="left">
-  <a href="https://www.linkedin.com/in/gad-murithi-a66b7b232/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:murithigad@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/gadkimathi">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-00AEEF?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
----
-> *“Every messy workflow taught me more about systems than a clean one ever did — that’s why I love automation.”*  
-> — **Gad Kimathi**
+
+<div align="center">
+
+### **Automate the repetitive. Engineer the scalable. Build the intelligent. ⚡**
+
+<img src="https://komarev.com/ghpvc/?username=gadkimathi&label=PROFILE+VIEWS&color=00E5FF&style=for-the-badge"/>
+
+</div>
