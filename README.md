@@ -1,16 +1,17 @@
 <div align="center">
 
-# Gad Kimathi
-
-### AI Automation · Systems Integration · SaaS
-
-Building intelligent systems that connect AI, APIs, data, and business workflows.
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=32&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&lines=Gad+Kimathi;AI+Automation+Engineer;Systems+Integration+%26+SaaS+Builder;Building+intelligent+systems+that+solve+real+problems." alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+<p>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-18181B?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
@@ -18,16 +19,21 @@ Building intelligent systems that connect AI, APIs, data, and business workflows
 
 ## About
 
-I'm a Mechatronics Engineer and software builder focused on designing systems that combine **AI, automation, APIs, data, and business workflows**.
+I build intelligent software systems that connect **AI, automation, APIs, data, and business workflows**.
 
-My work spans **document intelligence, SaaS, CRM integrations, engineering software, and data-driven applications**. I enjoy breaking down complex problems, understanding how the system works, and building practical solutions around them.
+With a background in **Mechatronics Engineering**, I approach software as a systems problem: understand the moving parts, identify inefficiencies, and engineer solutions that work reliably.
 
-**Highlights**
+My work spans **AI automation, document intelligence, SaaS platforms, CRM integrations, and engineering software**.
 
-- Mechatronics Engineering graduate with a strong software and systems focus
-- Builder of **TenderPDF**, a platform for simplifying tender and document workflows
-- Built projects across EV battery management, CAD feature extraction, business software, and automation
-- Working with AI workflows, APIs, CRM systems, and business integrations
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=gadkimathi&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gadkimathi&hide_border=true" height="165" />
+
+</div>
 
 ---
 
@@ -39,7 +45,7 @@ My work spans **document intelligence, SaaS, CRM integrations, engineering softw
 
 ### AI & Automation
 
-Intelligent workflows that connect AI, APIs, data, and business processes.
+Intelligent workflows that connect models, APIs, data, and business processes.
 
 </td>
 
@@ -47,7 +53,7 @@ Intelligent workflows that connect AI, APIs, data, and business processes.
 
 ### Systems Integration
 
-Connecting CRMs, APIs, databases, webhooks, and third-party services.
+Connecting CRMs, APIs, databases, webhooks, and third-party platforms.
 
 </td>
 </tr>
@@ -57,7 +63,7 @@ Connecting CRMs, APIs, databases, webhooks, and third-party services.
 
 ### SaaS & Business Software
 
-Tools and platforms designed to solve real operational problems.
+Building products and internal tools that solve operational problems.
 
 </td>
 
@@ -65,7 +71,7 @@ Tools and platforms designed to solve real operational problems.
 
 ### Engineering Systems
 
-Applying software, algorithms, and data to technical challenges.
+Applying algorithms, data, and software to complex technical challenges.
 
 </td>
 </tr>
@@ -73,71 +79,57 @@ Applying software, algorithms, and data to technical challenges.
 
 ---
 
-## Stack
-
-**Languages & Development**
-
-`Python` · `JavaScript` · `PHP` · `SQL`
-
-**Frameworks**
-
-`React` · `Laravel`
-
-**AI & Automation**
-
-`LLMs` · `AI Workflows` · `REST APIs` · `Webhooks`
-
-**Business Systems**
-
-`HubSpot` · `Zoho` · `Odoo` · `CRM`
-
-**Data & Infrastructure**
-
-`PostgreSQL` · `MySQL` · `Docker` · `Git` · `CI/CD`
-
----
-
 ## Selected Projects
 
-### [TenderPDF](https://github.com/gadkimathi/Tenderpdf)
+### [TenderPDF →](https://github.com/gadkimathi/Tenderpdf)
 
-A platform focused on simplifying tender and document workflows.
+Document intelligence platform designed to simplify tender workflows.
 
-`Document Intelligence` · `Automation` · `SaaS`
+`Document Processing` · `Automation` · `SaaS`
 
----
+### [TalentFlow →](https://github.com/gadkimathi/TalentFlow)
 
-### [TalentFlow](https://github.com/gadkimathi/TalentFlow)
+Business workflow and lead intelligence platform.
 
-A system focused on business workflows, lead intelligence, and automation.
+`CRM` · `Data` · `Automation`
 
-`CRM` · `Data` · `Automation` · `Business Systems`
+### [EV Fleet Battery Management →](https://github.com/gadkimathi/ev-fleet-battery-management-system)
 
----
+Data-driven monitoring and management for electric vehicle batteries.
 
-### [EV Fleet Battery Management](https://github.com/gadkimathi/ev-fleet-battery-management-system)
+`Python` · `Data` · `Engineering`
 
-A data-driven system for monitoring and managing electric vehicle battery performance.
+### [Feature Extraction Algorithm →](https://github.com/gadkimathi/Feature-extraction-algorithm)
 
-`Python` · `Data` · `Engineering Systems`
-
----
-
-### [Feature Extraction Algorithm](https://github.com/gadkimathi/Feature-extraction-algorithm)
-
-An engineering algorithm for extracting features from CAD models.
+Algorithmic feature extraction from CAD models.
 
 `Algorithms` · `CAD` · `Engineering Automation`
+
+---
+
+## Technology
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,php,react,laravel,postgres,mysql,docker,git,github" />
+
+</p>
+
+<p align="center">
+
+AI Workflows · APIs · Webhooks · HubSpot · Zoho · Odoo · CRM Integration · CI/CD
+
+</p>
 
 ---
 
 ## Current Focus
 
 ```text
-AI Automation
-│
-├── Intelligent Workflows
-├── API & Systems Integration
-├── CRM & Business Automation
-├── AI Agents
-└── SaaS Products
+AI AUTOMATION
+     │
+     ├── Intelligent Workflows
+     ├── AI Agents
+     ├── API Orchestration
+     ├── CRM & Business Automation
+     └── SaaS Products
