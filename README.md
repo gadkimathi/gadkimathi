@@ -1,17 +1,19 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=32&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&lines=Gad+Kimathi;AI+Automation+Engineer;Systems+Integration+%26+SaaS+Builder;Building+intelligent+systems+that+solve+real+problems." alt="Typing SVG" />
+<img
+  src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=32&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&lines=Gad+Kimathi;AI+Automation+Engineer;Systems+Integration+%26+SaaS+Builder;Building+intelligent+systems+that+solve+real+problems."
+  alt="Typing SVG"
+/>
 
 <br/>
 
-<p>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-18181B?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-18181B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
 
 </div>
 
@@ -19,19 +21,26 @@
 
 ## About
 
-I build intelligent software systems that connect **AI, automation, APIs, data, and business workflows**.
+I'm a **Mechatronics Engineer and software builder** focused on designing systems that combine **AI, automation, APIs, data, and business workflows**.
 
-With a background in **Mechatronics Engineering**, I approach software as a systems problem: understand the moving parts, identify inefficiencies, and engineer solutions that work reliably.
+My work spans **document intelligence, SaaS, CRM integrations, engineering software, and data-driven applications**. I enjoy breaking down complex problems, understanding how systems work, and building practical solutions around them.
 
-My work spans **AI automation, document intelligence, SaaS platforms, CRM integrations, and engineering software**.
+**Highlights**
+
+- Mechatronics Engineering graduate with a strong focus on software and intelligent systems
+- Builder of **TenderPDF**, a platform for simplifying tender and document workflows
+- Built projects across **EV battery management, CAD feature extraction, business software, and automation**
+- Working with **AI workflows, APIs, CRM systems, and business integrations**
 
 ---
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gadkimathi&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gadkimathi&hide_border=true" height="165" />
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=gadkimathi&hide_border=true&area=true"
+  width="100%"
+  alt="GitHub Activity Graph"
+/>
 
 </div>
 
@@ -45,7 +54,7 @@ My work spans **AI automation, document intelligence, SaaS platforms, CRM integr
 
 ### AI & Automation
 
-Intelligent workflows that connect models, APIs, data, and business processes.
+Building intelligent workflows that connect AI, APIs, data, and business processes.
 
 </td>
 
@@ -63,7 +72,7 @@ Connecting CRMs, APIs, databases, webhooks, and third-party platforms.
 
 ### SaaS & Business Software
 
-Building products and internal tools that solve operational problems.
+Building products and internal tools that solve real operational problems.
 
 </td>
 
@@ -83,43 +92,47 @@ Applying algorithms, data, and software to complex technical challenges.
 
 ### [TenderPDF →](https://github.com/gadkimathi/Tenderpdf)
 
-Document intelligence platform designed to simplify tender workflows.
+A document intelligence platform designed to simplify tender workflows.
 
 `Document Processing` · `Automation` · `SaaS`
 
+---
+
 ### [TalentFlow →](https://github.com/gadkimathi/TalentFlow)
 
-Business workflow and lead intelligence platform.
+A system focused on business workflows, lead intelligence, and automation.
 
-`CRM` · `Data` · `Automation`
+`CRM` · `Data` · `Automation` · `Business Systems`
+
+---
 
 ### [EV Fleet Battery Management →](https://github.com/gadkimathi/ev-fleet-battery-management-system)
 
-Data-driven monitoring and management for electric vehicle batteries.
+A data-driven system for monitoring and managing electric vehicle battery performance.
 
-`Python` · `Data` · `Engineering`
+`Python` · `Data` · `Engineering Systems`
+
+---
 
 ### [Feature Extraction Algorithm →](https://github.com/gadkimathi/Feature-extraction-algorithm)
 
-Algorithmic feature extraction from CAD models.
+An engineering algorithm for extracting features from CAD models.
 
-`Algorithms` · `CAD` · `Engineering Automation`
+`Python` · `Algorithms` · `CAD` · `Engineering Automation`
 
 ---
 
 ## Technology
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,php,react,laravel,postgres,mysql,docker,git,github" />
+<img src="https://skillicons.dev/icons?i=python,js,php,react,laravel,postgres,mysql,docker,git,github&perline=10" />
 
-</p>
+<br/><br/>
 
-<p align="center">
+`AI Workflows` · `REST APIs` · `Webhooks` · `HubSpot` · `Zoho` · `Odoo` · `CRM Integration` · `CI/CD`
 
-AI Workflows · APIs · Webhooks · HubSpot · Zoho · Odoo · CRM Integration · CI/CD
-
-</p>
+</div>
 
 ---
 
@@ -130,6 +143,6 @@ AI AUTOMATION
      │
      ├── Intelligent Workflows
      ├── AI Agents
-     ├── API Orchestration
+     ├── API & Systems Integration
      ├── CRM & Business Automation
      └── SaaS Products
