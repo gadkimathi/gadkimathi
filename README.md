@@ -11,10 +11,6 @@ alt="Typing SVG"
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-18181B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-
 </div>
 
 ---
