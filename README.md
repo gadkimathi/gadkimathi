@@ -1,84 +1,143 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Gad+Kimathi+%F0%9F%91%8B;Automation+Engineer+%E2%9A%99%EF%B8%8F;AI+%C3%97+Automation+%C3%97+Engineering" alt="Typing SVG" />
+# Gad Kimathi
+
+### AI Automation · Systems Integration · SaaS
+
+Building intelligent systems that connect AI, APIs, data, and business workflows.
 
 <br/>
 
-<a href="https://www.linkedin.com/in/gad-murithi-a66b7b232/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:murithigad@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/gadkimathi">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 </div>
 
 ---
 
-##  I Build Systems That Work While You Sleep
+## About
 
-I'm **Gad Kimathi**, an Automation Engineer with a background in **Mechatronics Engineering**.
+I'm a Mechatronics Engineer and software builder focused on designing systems that combine **AI, automation, APIs, data, and business workflows**.
 
-I combine **AI, APIs, CRMs, code, and automation** to turn repetitive business processes into intelligent systems.
+My work spans **document intelligence, SaaS, CRM integrations, engineering software, and data-driven applications**. I enjoy breaking down complex problems, understanding how the system works, and building practical solutions around them.
+
+**Highlights**
+
+- Mechatronics Engineering graduate with a strong software and systems focus
+- Builder of **TenderPDF**, a platform for simplifying tender and document workflows
+- Built projects across EV battery management, CAD feature extraction, business software, and automation
+- Working with AI workflows, APIs, CRM systems, and business integrations
+
+---
+
+## What I Build
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### AI & Automation
+
+Intelligent workflows that connect AI, APIs, data, and business processes.
+
+</td>
+
+<td width="50%" valign="top">
+
+### Systems Integration
+
+Connecting CRMs, APIs, databases, webhooks, and third-party services.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### SaaS & Business Software
+
+Tools and platforms designed to solve real operational problems.
+
+</td>
+
+<td width="50%" valign="top">
+
+### Engineering Systems
+
+Applying software, algorithms, and data to technical challenges.
+
+</td>
+</tr>
+</table>
+
+---
+
+## Stack
+
+**Languages & Development**
+
+`Python` · `JavaScript` · `PHP` · `SQL`
+
+**Frameworks**
+
+`React` · `Laravel`
+
+**AI & Automation**
+
+`LLMs` · `AI Workflows` · `REST APIs` · `Webhooks`
+
+**Business Systems**
+
+`HubSpot` · `Zoho` · `Odoo` · `CRM`
+
+**Data & Infrastructure**
+
+`PostgreSQL` · `MySQL` · `Docker` · `Git` · `CI/CD`
+
+---
+
+## Selected Projects
+
+### [TenderPDF](https://github.com/gadkimathi/Tenderpdf)
+
+A platform focused on simplifying tender and document workflows.
+
+`Document Intelligence` · `Automation` · `SaaS`
+
+---
+
+### [TalentFlow](https://github.com/gadkimathi/TalentFlow)
+
+A system focused on business workflows, lead intelligence, and automation.
+
+`CRM` · `Data` · `Automation` · `Business Systems`
+
+---
+
+### [EV Fleet Battery Management](https://github.com/gadkimathi/ev-fleet-battery-management-system)
+
+A data-driven system for monitoring and managing electric vehicle battery performance.
+
+`Python` · `Data` · `Engineering Systems`
+
+---
+
+### [Feature Extraction Algorithm](https://github.com/gadkimathi/Feature-extraction-algorithm)
+
+An engineering algorithm for extracting features from CAD models.
+
+`Algorithms` · `CAD` · `Engineering Automation`
+
+---
+
+## Current Focus
 
 ```text
-Messy Process
-     ↓
- Automation
-     ↓
- AI + APIs + CRMs + Workflows
-     ↓
- Scalable System
-```
-
-##  What I Do
-
-*  **AI & Workflow Automation**
-*  **API & Systems Integration**
-*  **SaaS & Internal Tool Development**
-*  **Business Process & CRM Automation**
-*  **CRM Architecture & Data Workflows**
-
-##  Tech Stack
-
-###  Automation & CRM
-
-<p>
-<img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Zoho_CRM-C8202B?style=for-the-badge&logo=zoho&logoColor=white"/>
-<img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
-<img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white"/>
-<img src="https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white"/>
-</p>
-
-###  Engineering & Data
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
-
-**Also working with:** REST APIs • Webhooks • AI Workflows • n8n • Git
-
----
-
-##  Currently Building & Exploring
-
-> **AI Agents • Intelligent Automation • CRM Architecture • API Orchestration • AI-Powered SaaS**
-
----
-
-<div align="center">
-
-### **Automate the repetitive. Connect the systems. Build the intelligent. ⚡**
-
-<img src="https://komarev.com/ghpvc/?username=gadkimathi&label=PROFILE+VIEWS&color=00E5FF&style=for-the-badge"/>
-
-</div>
+AI Automation
+│
+├── Intelligent Workflows
+├── API & Systems Integration
+├── CRM & Business Automation
+├── AI Agents
+└── SaaS Products
