@@ -21,7 +21,7 @@ alt="Typing SVG"
 
 ## About
 
-I'm a **Mechatronics Engineer and software builder** focused on designing systems that combine **AI, automation, APIs, data, and business workflows**.
+I'm a **Solutions Engineer and software builder** focused on designing systems that combine **AI, automation, APIs, data, and business workflows**.
 
 My work spans **document intelligence, SaaS, CRM integrations, engineering software, and data-driven applications**. I enjoy breaking down complex problems, understanding how systems work, and building practical solutions around them.
 
