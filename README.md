@@ -1,14 +1,14 @@
 <div align="center">
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=32&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&lines=Gad+Kimathi;AI+Automation+Engineer;Systems+Integration+%26+SaaS+Builder;Building+intelligent+systems+that+solve+real+problems."
+src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=32&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&lines=Gad+Kimathi;Solutions+Engineer;AI+Automation+%26+Systems+Integration;Building+intelligent+systems+that+solve+real+problems."
 alt="Typing SVG"
 />
 
 <br/>
 
 <a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 </div>
@@ -17,16 +17,16 @@ alt="Typing SVG"
 
 ## About
 
-I'm a **Solutions Engineer and software builder** focused on designing systems that combine **AI, automation, APIs, data, and business workflows**.
+I'm a **Solutions Engineer and software builder** focused on designing systems that bring together **AI, automation, APIs, data, and business workflows**.
 
-My work spans **document intelligence, SaaS, CRM integrations, engineering software, and data-driven applications**. I enjoy breaking down complex problems, understanding how systems work, and building practical solutions around them.
+My work spans **document intelligence, SaaS, systems integration, CRM workflows, and engineering software**. I enjoy understanding complex systems, finding inefficiencies, and turning them into practical software solutions.
 
 **Highlights**
 
 * Mechatronics Engineering graduate with a strong focus on software and intelligent systems
-* Builder of **TenderPDF**, a platform for simplifying tender and document workflows
-* Built projects across **EV battery management, CAD feature extraction, business software, and automation**
-* Working with **AI workflows, APIs, CRM systems, and business integrations**
+* Building **TenderPDF**, a platform for simplifying tender and document workflows
+* Built projects across EV battery management, CAD feature extraction, business software, and automation
+* Interested in AI workflows, systems integration, CRM architecture, and intelligent business systems
 
 ---
 
@@ -50,7 +50,7 @@ alt="Coding Animation"
 
 ### AI & Automation
 
-Building intelligent workflows that connect AI, APIs, data, and business processes.
+Designing intelligent workflows that connect AI, APIs, data, and business processes.
 
 </td>
 
@@ -58,7 +58,7 @@ Building intelligent workflows that connect AI, APIs, data, and business process
 
 ### Systems Integration
 
-Connecting CRMs, APIs, databases, webhooks, and third-party platforms.
+Connecting CRMs, APIs, databases, webhooks, and third-party platforms into reliable workflows.
 
 </td>
 </tr>
@@ -76,7 +76,7 @@ Building products and internal tools that solve real operational problems.
 
 ### Engineering Systems
 
-Applying algorithms, data, and software to complex technical challenges.
+Applying software, algorithms, and data to technical and engineering challenges.
 
 </td>
 </tr>
@@ -88,15 +88,15 @@ Applying algorithms, data, and software to complex technical challenges.
 
 ### [TenderPDF →](https://github.com/gadkimathi/Tenderpdf)
 
-A document intelligence platform designed to simplify tender workflows.
+A platform focused on simplifying tender and document workflows.
 
-`Document Processing` · `Automation` · `SaaS`
+`Document Intelligence` · `Automation` · `SaaS`
 
 ---
 
 ### [TalentFlow →](https://github.com/gadkimathi/TalentFlow)
 
-A system focused on business workflows, lead intelligence, and automation.
+A system for lead intelligence, business workflows, and automation.
 
 `CRM` · `Data` · `Automation` · `Business Systems`
 
@@ -112,7 +112,7 @@ A data-driven system for monitoring and managing electric vehicle battery perfor
 
 ### [Feature Extraction Algorithm →](https://github.com/gadkimathi/Feature-extraction-algorithm)
 
-An engineering algorithm for extracting features from CAD models.
+An algorithm for extracting geometric features from CAD models.
 
 `Python` · `Algorithms` · `CAD` · `Engineering Automation`
 
@@ -122,7 +122,10 @@ An engineering algorithm for extracting features from CAD models.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,php,react,laravel,postgres,mysql,docker,git,github&perline=10" />
+<img
+src="https://skillicons.dev/icons?i=python,js,php,react,laravel,postgres,mysql,docker,git,github&perline=10"
+alt="Technology Stack"
+/>
 
 <br/><br/>
 
@@ -144,7 +147,7 @@ AI AUTOMATION
      └── SaaS Products
 ```
 
-Currently focused on building deeper expertise in **AI automation, systems integration, cloud infrastructure, and intelligent business systems**.
+Currently deepening my expertise in **AI automation, systems integration, cloud infrastructure, and intelligent business systems**.
 
 ---
 
