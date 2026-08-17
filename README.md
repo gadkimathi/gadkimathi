@@ -1,8 +1,8 @@
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=32&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&lines=Gad+Kimathi;AI+Automation+Engineer;Systems+Integration+%26+SaaS+Builder;Building+intelligent+systems+that+solve+real+problems."
-  alt="Typing SVG"
+src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=32&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&lines=Gad+Kimathi;AI+Automation+Engineer;Systems+Integration+%26+SaaS+Builder;Building+intelligent+systems+that+solve+real+problems."
+alt="Typing SVG"
 />
 
 <br/>
@@ -27,19 +27,19 @@ My work spans **document intelligence, SaaS, CRM integrations, engineering softw
 
 **Highlights**
 
-- Mechatronics Engineering graduate with a strong focus on software and intelligent systems
-- Builder of **TenderPDF**, a platform for simplifying tender and document workflows
-- Built projects across **EV battery management, CAD feature extraction, business software, and automation**
-- Working with **AI workflows, APIs, CRM systems, and business integrations**
+* Mechatronics Engineering graduate with a strong focus on software and intelligent systems
+* Builder of **TenderPDF**, a platform for simplifying tender and document workflows
+* Built projects across **EV battery management, CAD feature extraction, business software, and automation**
+* Working with **AI workflows, APIs, CRM systems, and business integrations**
 
 ---
 
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=gadkimathi&hide_border=true&area=true"
-  width="100%"
-  alt="GitHub Activity Graph"
+src="https://user-images.githubusercontent.com/74038190/212744275-cf6d1a0b-6f94-4c9f-a3a7-8fdf31f95e0f.gif"
+width="500"
+alt="Coding Animation"
 />
 
 </div>
@@ -146,3 +146,27 @@ AI AUTOMATION
      ├── API & Systems Integration
      ├── CRM & Business Automation
      └── SaaS Products
+```
+
+Currently focused on building deeper expertise in **AI automation, systems integration, cloud infrastructure, and intelligent business systems**.
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img
+src="https://raw.githubusercontent.com/gadkimathi/gadkimathi/output/github-contribution-grid-snake-dark.svg"
+alt="GitHub Contribution Snake Animation"
+/>
+
+</div>
+
+---
+
+<div align="center">
+
+### Understand the system. Find the bottleneck. Build the solution.
+
+</div>
