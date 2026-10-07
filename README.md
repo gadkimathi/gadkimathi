@@ -1,158 +1,149 @@
-<div align="center">
+# Gad Kimathi
 
-<img
-src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=32&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&lines=Gad+Kimathi;Solutions+Engineer;AI+Automation+%26+Systems+Integration;Building+intelligent+systems+that+solve+real+problems."
-alt="Typing SVG"
-/>
+### Cloud Security Engineer | IAM | AWS | Kubernetes | Infrastructure Security
 
-<br/>
+I engineer and secure cloud infrastructure with a primary focus on **Identity and Access Management (IAM), AWS security, Kubernetes security, and automated security controls**.
 
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+My work focuses on:
 
-</div>
-
----
-
-## About
-
-I'm a **Solutions Engineer and software builder** focused on designing systems that bring together **AI, automation, APIs, data, and business workflows**.
-
-My work spans **document intelligence, SaaS, systems integration, CRM workflows, and engineering software**. I enjoy understanding complex systems, finding inefficiencies, and turning them into practical software solutions.
-
-**Highlights**
-
-* Mechatronics Engineering graduate with a strong focus on software and intelligent systems
-* Building **TenderPDF**, a platform for simplifying tender and document workflows
-* Built projects across EV battery management, CAD feature extraction, business software, and automation
-* Interested in AI workflows, systems integration, CRM architecture, and intelligent business systems
+- 🔐 Identity & Access Management
+- ☁️ AWS Cloud Security
+- ☸️ Kubernetes Security
+- 🏗️ Infrastructure Security
+- ⚙️ Security Automation
+- 🔎 Security Monitoring & Detection
+- 🔒 Least Privilege & Access Control
 
 ---
 
-<div align="center">
+## 🔐 Core Specialization
 
-<img
-src="https://user-images.githubusercontent.com/74038190/212744275-cf6d1a0b-6f94-4c9f-a3a7-8fdf31f95e0f.gif"
-width="500"
-alt="Coding Animation"
-/>
+### Identity & Access Management
 
-</div>
+Focused on securing **who can access what, from where, and under which conditions**.
 
----
-
-## What I Build
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### AI & Automation
-
-Designing intelligent workflows that connect AI, APIs, data, and business processes.
-
-</td>
-
-<td width="50%" valign="top">
-
-### Systems Integration
-
-Connecting CRMs, APIs, databases, webhooks, and third-party platforms into reliable workflows.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### SaaS & Business Software
-
-Building products and internal tools that solve real operational problems.
-
-</td>
-
-<td width="50%" valign="top">
-
-### Engineering Systems
-
-Applying software, algorithms, and data to technical and engineering challenges.
-
-</td>
-</tr>
-</table>
+- AWS IAM
+- IAM Users & Roles
+- IAM Policies
+- Policy Evaluation
+- Trust Policies
+- Resource-Based Policies
+- Permission Boundaries
+- Role Assumption
+- Cross-Account Access
+- Least Privilege
+- Privilege Escalation
+- Access Key Security
+- RBAC
+- Identity-Based Attack Paths
 
 ---
 
-## Selected Projects
+### ☁️ AWS Cloud Security
 
-### [TenderPDF →](https://github.com/gadkimathi/Tenderpdf)
+Designing and assessing AWS environments with security controls built into the infrastructure.
 
-A platform focused on simplifying tender and document workflows.
-
-`Document Intelligence` · `Automation` · `SaaS`
-
----
-
-### [TalentFlow →](https://github.com/gadkimathi/TalentFlow)
-
-A system for lead intelligence, business workflows, and automation.
-
-`CRM` · `Data` · `Automation` · `Business Systems`
-
----
-
-### [EV Fleet Battery Management →](https://github.com/gadkimathi/ev-fleet-battery-management-system)
-
-A data-driven system for monitoring and managing electric vehicle battery performance.
-
-`Python` · `Data` · `Engineering Systems`
+- IAM
+- S3 Security
+- EC2 Security
+- VPC Security
+- Security Groups
+- Network ACLs
+- CloudTrail
+- CloudWatch
+- KMS
+- Secrets Management
+- AWS Organizations
+- AWS Config
+- GuardDuty
+- Security Hub
+- Cloud Security Posture Management
 
 ---
 
-### [Feature Extraction Algorithm →](https://github.com/gadkimathi/Feature-extraction-algorithm)
+### ☸️ Kubernetes Security
 
-An algorithm for extracting geometric features from CAD models.
+Securing containerized workloads and Kubernetes infrastructure.
 
-`Python` · `Algorithms` · `CAD` · `Engineering Automation`
-
----
-
-## Technology
-
-<div align="center">
-
-<img
-src="https://skillicons.dev/icons?i=python,js,php,react,laravel,postgres,mysql,docker,git,github&perline=10"
-alt="Technology Stack"
-/>
-
-<br/><br/>
-
-`AI Workflows` · `REST APIs` · `Webhooks` · `HubSpot` · `Zoho` · `Odoo` · `CRM Integration` · `CI/CD`
-
-</div>
+- Kubernetes RBAC
+- Service Accounts
+- Pod Security
+- Network Policies
+- Secrets
+- Namespace Isolation
+- Container Security
+- Workload Identity
+- Cluster Access Control
+- Kubernetes Attack Surface
+- Least-Privilege Workloads
 
 ---
 
-## Current Focus
+### 🏗️ Infrastructure Security
+
+Implementing security controls directly into infrastructure.
+
+- Terraform
+- Secure VPC Architecture
+- Network Segmentation
+- Security Groups
+- IAM as Code
+- Encryption
+- Secure Defaults
+- Infrastructure Validation
+- Policy as Code
+- Infrastructure Drift
+
+---
+
+### ⚙️ Security Automation
+
+Automating the discovery, analysis and remediation of cloud security issues.
+
+- Python
+- Boto3
+- AWS APIs
+- Security Scanning
+- Configuration Analysis
+- IAM Policy Analysis
+- Automated Security Checks
+- Security Findings
+- Automated Remediation
+- Security Reporting
+
+---
+
+# 🛡️ Security Projects
+
+## 01. CloudGuard
+
+### AWS Cloud Security Posture Management
+
+A lightweight AWS security scanner designed to identify common cloud misconfigurations, exposed resources and excessive permissions.
+
+### Security Checks
 
 ```text
-AI AUTOMATION
-     │
-     ├── Intelligent Workflows
-     ├── AI Agents
-     ├── API & Systems Integration
-     ├── CRM & Business Automation
-     └── SaaS Products
-```
-
-Currently deepening my expertise in **AI automation, systems integration, cloud infrastructure, and intelligent business systems**.
-
----
-
-<div align="center">
-
-### Understand the system. Find the bottleneck. Build the solution.
-
-</div>
+AWS Account
+│
+├── IAM
+│   ├── Excessive Permissions
+│   ├── AdministratorAccess
+│   ├── Risky Policies
+│   ├── Access Keys
+│   └── Privilege Escalation Paths
+│
+├── S3
+│   ├── Public Access
+│   ├── Bucket Policies
+│   └── Encryption
+│
+├── EC2
+│   └── Security Configuration
+│
+├── VPC
+│   ├── Security Groups
+│   └── Network Exposure
+│
+└── Logging
+    └── CloudTrail
